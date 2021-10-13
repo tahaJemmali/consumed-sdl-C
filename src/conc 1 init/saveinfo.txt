@@ -1,0 +1,270 @@
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2368 / x=2610 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2800 / x=2394 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2808 / x=2390 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2830 / x=2379 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2838 / x=2375 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2848 / x=2370 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2440 / x=2574 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2440 / x=2574 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2440 / x=2574 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2440 / x=2574 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2440 / x=2574 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2440 / x=2574 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2440 / x=2574 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2458 / x=2525 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2458 / x=2525 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2458 / x=2525 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2458 / x=2525 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2458 / x=2525 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2458 / x=2525 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2458 / x=2525 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2458 / x=2525 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2458 / x=2525 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2576 / x=2524 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2576 / x=2524 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2576 / x=2524 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2576 / x=2524 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2530 / x=2489 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2530 / x=2489 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2530 / x=2489 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2300 / x=2644 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2428 / x=2580 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2584 / x=2486 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2508 / x=2568 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2460 / x=2564 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2388 / x=2600 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2422 / x=2583 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2552 / x=2518 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2372 / x=2608 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2612 / x=2492 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2408 / x=2590 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2490 / x=2549 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2430 / x=2579 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2436 / x=2576 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2460 / x=2564 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2408 / x=2590 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2428 / x=2580 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2456 / x=2566 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2722 / x=2433 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2408 / x=2590 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2504 / x=2542 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2518 / x=2535 
+gestion de vie et de score = 10 / 0 
+num stage = 0 
+position perso = y= 2856 / x=2330 
+gestion de vie et de score = 5 / 20 
+num stage = 0 

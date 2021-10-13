@@ -1,0 +1,20 @@
+\hypertarget{structenigmes}{}\section{enigmes Struct Reference}
+\label{structenigmes}\index{enigmes@{enigmes}}
+
+
+Collaboration diagram for enigmes\+:
+% FIG 0
+\subsection*{Data Fields}
+\begin{DoxyCompactItemize}
+\item 
+int {\bfseries nbenigmes}\hypertarget{structenigmes_abea9d7fc0337c8593f473fcf36ca766a}{}\label{structenigmes_abea9d7fc0337c8593f473fcf36ca766a}
+
+\item 
+\hyperlink{structenigme}{enigme} {\bfseries E} \mbox{[}30\mbox{]}\hypertarget{structenigmes_af1b808aeda74bc91aa254aa96dc6fc2f}{}\label{structenigmes_af1b808aeda74bc91aa254aa96dc6fc2f}
+
+\end{DoxyCompactItemize}
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+jeuu.\+h\end{DoxyCompactItemize}
